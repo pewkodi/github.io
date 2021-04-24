@@ -3,34 +3,33 @@
 #EXT-X-VERSION:3
 
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud-192000",NAME="English",LANGUAGE="eng",DEFAULT=YES,AUTOSELECT=YES,URI="https://freespeech.akamaized.net/hls/live/2024573/live2/audio_0_eng/audio_0_eng.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud-b-192000",NAME="English",LANGUAGE="eng",DEFAULT=YES,AUTOSELECT=YES,URI="https:/freespeech.akamaized.net/hls/live/2016712-b/live2/audio_0_eng/audio_0_eng.m3u8"
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2619093,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1280x720,AUDIO="aud-192000"
 https://freespeech.akamaized.net/hls/live/2024573/live2/video_0/video_0.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2619093,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1280x720,AUDIO="aud-b-192000"
-https:/freespeech.akamaized.net/hls/live/2016712-b/live2/video_0/video_0.m3u8
+#https://freespeech.akamaized.net/hls/live/2024573-b/live2https:/freespeech.akamaized.net/hls/live/2016712-b/live2/video_0/video_0.m3u8
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=375778,CODECS="avc1.420015,mp4a.40.2",RESOLUTION=320x180,AUDIO="aud-192000"
 https://freespeech.akamaized.net/hls/live/2024573/live2/video_4/video_4.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=375778,CODECS="avc1.420015,mp4a.40.2",RESOLUTION=320x180,AUDIO="aud-b-192000"
-https:/freespeech.akamaized.net/hls/live/2016712-b/live2/video_4/video_4.m3u8
+#https://freespeech.akamaized.net/hls/live/2024573-b/live2https:/freespeech.akamaized.net/hls/live/2016712-b/live2/video_4/video_4.m3u8
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=707312,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=480x270,AUDIO="aud-192000"
 https://freespeech.akamaized.net/hls/live/2024573/live2/video_3/video_3.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=707312,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=480x270,AUDIO="aud-b-192000"
-https:/freespeech.akamaized.net/hls/live/2016712-b/live2/video_3/video_3.m3u8
+#https://freespeech.akamaized.net/hls/live/2024573-b/live2https:/freespeech.akamaized.net/hls/live/2016712-b/live2/video_3/video_3.m3u8
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=985568,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=640x360,AUDIO="aud-192000"
 https://freespeech.akamaized.net/hls/live/2024573/live2/video_2/video_2.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=985568,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=640x360,AUDIO="aud-b-192000"
-https:/freespeech.akamaized.net/hls/live/2016712-b/live2/video_2/video_2.m3u8
+#https://freespeech.akamaized.net/hls/live/2024573-b/live2https:/freespeech.akamaized.net/hls/live/2016712-b/live2/video_2/video_2.m3u8
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1825120,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=960x540,AUDIO="aud-192000"
 https://freespeech.akamaized.net/hls/live/2024573/live2/video_1/video_1.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1825120,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=960x540,AUDIO="aud-b-192000"
-https:/freespeech.akamaized.net/hls/live/2016712-b/live2/video_1/video_1.m3u8
+#https://freespeech.akamaized.net/hls/live/2024573-b/live2https:/freespeech.akamaized.net/hls/live/2016712-b/live2/video_1/video_1.m3u8
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=214510,CODECS="mp4a.40.2",AUDIO="aud-192000"
 https://freespeech.akamaized.net/hls/live/2024573/live2/audio_0_eng/audio_0_eng.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=214510,CODECS="mp4a.40.2",AUDIO="aud-b-192000"
-https:/freespeech.akamaized.net/hls/live/2016712-b/live2/audio_0_eng/audio_0_eng.m3u8
+#https://freespeech.akamaized.net/hls/live/2024573-b/live2https:/freespeech.akamaized.net/hls/live/2016712-b/live2/audio_0_eng/audio_0_eng.m3u8
